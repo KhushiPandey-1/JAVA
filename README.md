@@ -57,12 +57,12 @@ Welcome to my collection of Java DSA and OOPs problem solutions! Here, I’ve so
 
 # 🌟 How to Use
 ## Clone the repository:
-*git clone https://github.com/xing24xing/JAVA*
+*git clone https://github.com/KhushiPandey8/JAVA*
 
 # 💌 Contact Me
 ## Feel free to reach out for feedback, suggestions, or collaboration! 😊
  - 📧 Email: xingxing8601@example.com
- - 🔗 GitHub: https://github.com/xing24xing/
+ - 🔗 GitHub: https://github.com/KhushiPandey8/
 
 # 🏆 Acknowledgments
 ## Special thanks to:
