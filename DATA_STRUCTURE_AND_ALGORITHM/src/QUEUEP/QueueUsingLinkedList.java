@@ -35,7 +35,7 @@ public class QueueUsingLinkedList {
             }
             tail.next = n;
             tail = n;
-        }
+        }         
         public static int remove(){
           if(isEmpty()){
               return -1;

@@ -19,6 +19,7 @@ public class even_or_odd {
     public static void main(String[] args) {
         // TODO code application logic here
         Scanner sc=new Scanner(System.in);
+        System.out.println(4%7);
         System.out.println("Enter Any Number");
         int a=sc.nextInt();
         if(a%2==0)
@@ -28,6 +29,7 @@ public class even_or_odd {
         else{
             System.out.println(a+" is an odd number");
         }
+        
     }
     
 }

@@ -81,7 +81,7 @@ public class BasicImp {
               
         }
         public static int peek(){
-//            normal ---------
+//            normal --- ------
 //             if(isEmpty()){
 //                return -1;
 //            }
