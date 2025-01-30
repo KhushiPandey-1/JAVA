@@ -107,7 +107,9 @@ public class LevelOrderTravesal {
      public static TreeInfo diameter(Node root){
          if(root == null) return new TreeInfo(0, 0);
          TreeInfo left = diameter(root.left);
+//         System.out.println(diameter(root.left));
          TreeInfo right = diameter(root.right);
+//          System.out.println(right);
          
          int ht = Math.max(left.ht , right.ht) + 1;
          int dia1 = left.dia;
@@ -142,7 +144,7 @@ public class LevelOrderTravesal {
         System.out.println(Tree.heightOfTree(root));
         System.out.println("Case 1 Diameter Of Tree");
         System.out.println(Tree.diameterOfTree(root));
-        System.out.println("Case 2 Diameter of Tree");
+         System.out.println("Case 2 Diameter of Tree");
         System.out.println(Tree.diameter(root).dia);
     }
 }
