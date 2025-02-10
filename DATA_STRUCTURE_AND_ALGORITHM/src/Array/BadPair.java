@@ -1,9 +1,9 @@
 package Array;
 
-public class BadPair {
-   import java.util.HashMap;
+import java.util.HashMap;
 
-public class BadPairsCounter {
+public class BadPair {
+ 
     public static long countBadPairs(int[] nums) {
         int n = nums.length;
         long totalPairs = (long) n * (n - 1) / 2; // Total possible pairs
@@ -29,4 +29,4 @@ public class BadPairsCounter {
     }
 }
  
-}
+
