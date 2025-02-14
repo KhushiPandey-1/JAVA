@@ -1,13 +1,5 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
- */
 package Array;
 
-/**
- *
- * @author khushi pandey
- */
 public class Best_SightSeeing_Pairs {
 public int maxScoreSightseeingPair(int[] values) {
         int maxScore = 0; // To store the maximum score
