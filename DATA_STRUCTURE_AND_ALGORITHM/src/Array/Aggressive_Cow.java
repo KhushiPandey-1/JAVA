@@ -1,15 +1,6 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
- */
 package Array;
 
 import java.util.Arrays;
-
-/**
- *
- * @author khushi pandey
- */
 public class Aggressive_Cow {
 
     public static int cows(int []arr,int m,int n){
@@ -44,8 +35,8 @@ public class Aggressive_Cow {
 //        return cows >= m;
             return false;
     }
-    public static void main(String[] args) {
-        // TODO code application logic here
+    public static void main(String[] args) 
+    // Input
         int [] arr = {1,2,8,4,9};
         int res = cows(arr,3,arr.length);
         System.out.println(res);
