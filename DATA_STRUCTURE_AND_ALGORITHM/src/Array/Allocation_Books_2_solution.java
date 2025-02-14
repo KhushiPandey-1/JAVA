@@ -1,13 +1,5 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
- */
 package Array;
 
-/**
- *
- * @author khushi pandey
- */
 public class Allocation_Books_2_solution {
     public static int allocation(int[] arr,int n,int m){
         int sum = 0;
